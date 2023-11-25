@@ -2,7 +2,7 @@
 
 
 ```
-mkdir -p~/rosS/src
+mkdir -p ~/rosS/src
 ```
 
 
